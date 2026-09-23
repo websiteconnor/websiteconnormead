@@ -1,9 +1,0 @@
-User-agent: *
-Disallow: /yonetici
-Disallow: /yonetici.html
-Disallow: /hesap
-Disallow: /sepet
-Disallow: /siparis-ver
-Disallow: /siparislerim
-Disallow: /favoriler
-Disallow: /api/
